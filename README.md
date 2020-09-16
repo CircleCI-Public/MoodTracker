@@ -24,7 +24,7 @@ Your mood history is saved for a week, allowing you see your general mood trends
 &ensp;<img src="./art/image4.png" width="25%">&ensp;<img src="./art/image5.png" width="25%">
 
 
-## Skills and learnig goals
+## Skills and learning goals
 
 -   Respect Industry Standard development practices
     
